@@ -1,5 +1,4 @@
 ## Finance-Loan-Analysis
-
 #### Title: Finance Loan Analysis – Risk and Loan Default Analysis.
 ![Screenshot 2024-09-30 094841](https://github.com/user-attachments/assets/1d0fe54b-9959-4701-9f02-75352bf3a0d8)
 
